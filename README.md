@@ -13,6 +13,7 @@ Please take a look at the demo that I have hosted
 
 Visuals and team structure diagrams are uploaded as images named 
 
+
 Architecture - Eliq_data_platform.jpg
 Tasks - Tasks_and_first_user_stories.jpg
 Roadmap & Responsibilities - Implementation_team_responsibilities.jpg
